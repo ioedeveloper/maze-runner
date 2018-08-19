@@ -1,4 +1,4 @@
-#MAZE-RUNNER
+# MAZE-RUNNER
 
 Maze runner is a game in reactjs that works on web browsers.
 
